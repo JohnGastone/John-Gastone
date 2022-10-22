@@ -42,13 +42,13 @@ header{
 /* =============== ME ============== */
 
 .me{
-    background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
+    background: transparent;
+    width: 25rem;
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
+    margin-top: 6rem;
+    border-radius: 2rem 2rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 }

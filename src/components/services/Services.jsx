@@ -67,11 +67,11 @@ function Services() {
           </div>
         </article>
 
-
+        
         <article className="service">
           <div>
-         {/* Digital Marketing */}
-         <h3 className="service__head"> Digital Marketing</h3>
+         {/* Cloud Consultancy */}
+         <h3 className="service__head"> Web Development</h3>
             <ul className='service__list'>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
@@ -96,6 +96,7 @@ function Services() {
             </ul>
           </div>
         </article>
+
       </div>
     </section>
   )
