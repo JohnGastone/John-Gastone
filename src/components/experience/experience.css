@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    margin-bottom: 3rem;
 }
 
 .experience__container > div{
@@ -39,4 +40,8 @@
     margin-top: 6px;
     color: var(--color-primary);
     
+}
+
+.h4{
+    margin-right:4rem;
 }

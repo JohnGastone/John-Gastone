@@ -62,8 +62,10 @@ h1{
 }
 
 section{
-    margin-top: 4rem;
-    height: 100vh;
+    margin-top: -3rem;
+    height: 140vh;
+    margin-bottom: 7rem;
+
 }
 
 section > h2, section > h5{

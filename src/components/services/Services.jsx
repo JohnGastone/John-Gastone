@@ -3,7 +3,7 @@ import './services.css'
 import {BiCheckDouble} from 'react-icons/bi'
 function Services() {
   return (
-    <section id='services'>
+    <section id='services' className='services'>
       <h5>What I Offer</h5>
       <h2>Services</h2>
       <div className="container services__container">
@@ -15,24 +15,19 @@ function Services() {
             <ul className='service__list'>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+                <p>User Interface and experience design that is relevant to your business audience. 
                 </p>
               </li>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+                <p>Clean and up to date designs that foster customer engagement in digital space. 
                 </p>
               </li>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.                   
+                <p>Collaborative customer study when designing for interfaces following HCI principles.                   
                 </p>
-              </li>
-              <li>
-                <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.                  
-                </p>
-              </li>
+              </li>             
             </ul>
           </div>
         </article>

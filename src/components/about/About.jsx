@@ -22,26 +22,25 @@ function About() {
               <article className='about__card'>
                 <BsAward className='about__icon'/>
                   <h5>Experience</h5>
-                  <small>3+ Years Working</small>
+                  <small> 1+ Years </small>
               </article>
               <article className='about__card'>
                 <FiUsers className='about__icon'/>
                   <h5>Clients</h5>
-                  <small>100+ Nationwide</small>
+                  <small>10+ Nationwide</small>
               </article>              
               <article className='about__card'>
                 <VscFolderActive className='about__icon'/>
                   <h5>Projects</h5>
-                  <small>50+ Completed</small>
+                  <small>20+ Completed</small>
               </article>
     
             </div>
             <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ullam nisi laborum esse ipsam repellat recusandae labore alias. 
-                Et aspernatur neque id incidunt, expedita optio architecto aut? Repudiandae qui debitis quasi velit excepturi, doloribus ipsa molestiae quidem ab numquam dolor! 
-                At, voluptatem beatae sed delectus animi quod quo. Vero, libero esse.
+            I am a very dedicated and passionate Software Developer and Data Science enthusiast, loving to work in a learning-oriented environment where customer satisfaction is a priority.
+I'm always curious on how to make things work better to meet organizational goals.
               </p>
-              <a href="#about" className='btn btn-primary'>Let's talk</a>
+              <a href="#contact" className='btn btn-primary'>Let's talk</a>
         </div>
       </div>
     </section>

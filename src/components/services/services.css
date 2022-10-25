@@ -1,7 +1,7 @@
 .services__container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 3rem;
+    gap: 2rem;
 }
 
 .service{
@@ -11,6 +11,9 @@
     height: fit-content;
     transition: var(--transition);
     padding-bottom: 3rem;
+}
+.services{
+    margin-top: 3rem;
 }
 
 .service:hover{
@@ -49,6 +52,7 @@
 
 .service__list p{
     font-size: 0.9rem;
+    color: var(--color-light);
 }
 
 /* ============= MEDIA QUERIES (MEDIUM DEVICES) =============== */

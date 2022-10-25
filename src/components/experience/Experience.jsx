@@ -16,6 +16,9 @@ import {SiPostgresql} from 'react-icons/si'
 import {FaPhp} from 'react-icons/fa'
 import {TbBrandFirebase} from 'react-icons/tb'
 import {SiExpress} from 'react-icons/si'
+import {AiTwotoneVideoCamera} from 'react-icons/ai'
+import {DiAtom} from 'react-icons/di'
+import {IoIosAppstore} from 'react-icons/io'
 
 function Experience() {
   return (
@@ -66,7 +69,7 @@ function Experience() {
               <FaAngular className='experience__details-icon'/>
               <div>
               <h4>Angular</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Beginer</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -100,7 +103,7 @@ function Experience() {
               <SiMongodb className='experience__details-icon'/>
               <div>
               <h4>MongoDB</h4>
-              <small className='text-light'>Intermediate</small>
+              <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -121,14 +124,14 @@ function Experience() {
               <SiPostgresql className='experience__details-icon'/>
               <div>
               <h4>PostgreSQL</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <FaPhp className='experience__details-icon'/>
               <div>
               <h4>PHP</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -142,6 +145,103 @@ function Experience() {
               <SiExpress className='experience__details-icon'/>
               <div>
                 <h4>Expressjs</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            
+          </div>
+        </div>
+        <div className="experience__backend">
+        <h3>Other Skills and Tools</h3>
+        <div className="experience__content">
+          <article className='experience__details'>
+              <IoIosAppstore className='experience__details-icon'/>
+              <div>
+              <h4>Git and Github</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <DiAtom className='experience__details-icon'/>
+              <div>
+              <h4>Figma</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <AiTwotoneVideoCamera className='experience__details-icon'/>
+              <div>
+              <h4>Canva</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <SiPython className='experience__details-icon'/>
+              <div>
+              <h4>Python Pandas</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <SiPostgresql className='experience__details-icon'/>
+              <div>
+              <h4>Agile Methodology</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <FaPhp className='experience__details-icon'/>
+              <div>
+              <h4>Waterfall Methodology</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            
+          </div>
+        </div>
+
+        <div className="experience__backend">
+        <h3>Extracurricular Skills</h3>
+        <div className="experience__content">
+          <article className='experience__details'>
+              <IoIosAppstore className='experience__details-icon'/>
+              <div>
+              <h4 className='h4'>Fundamentals of Finance</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <DiAtom className='experience__details-icon'/>
+              <div>
+              <h4>Storytelling</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <AiTwotoneVideoCamera className='experience__details-icon'/>
+              <div>
+              <h4>Canva</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <SiPython className='experience__details-icon'/>
+              <div>
+              <h4>R</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <SiPostgresql className='experience__details-icon'/>
+              <div>
+              <h4>Football Analysis</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <FaPhp className='experience__details-icon'/>
+              <div>
+              <h4>Fb Analysis</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -149,6 +249,7 @@ function Experience() {
           </div>
         </div>
       </div>
+      
     </section>
   )
 }

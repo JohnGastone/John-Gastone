@@ -27,7 +27,7 @@ function Portfolio() {
           <div className="porfolio item__image">
             <img src={img2} alt="" />
           </div>
-          <h3>Nyumbani na Mimi</h3>
+          <h3>Nyumbani Mkononi</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/JohnGastone" className='btn'>Github</a>
           <a href="https://github.com/JohnGastone" className='btn btn-primary'>Live Demo</a>
