@@ -18,7 +18,14 @@ import {TbBrandFirebase} from 'react-icons/tb'
 import {SiExpress} from 'react-icons/si'
 import {AiTwotoneVideoCamera} from 'react-icons/ai'
 import {DiAtom} from 'react-icons/di'
-import {IoIosAppstore} from 'react-icons/io'
+import {SiFigma} from 'react-icons/si'
+import {FaGithub} from 'react-icons/fa'
+import {SiCanva} from 'react-icons/si'
+import {SiPandas} from 'react-icons/si'
+import {GrCycle} from 'react-icons/gr'
+import {DiGhostSmall}from 'react-icons/di'
+import {IoIosFootball} from 'react-icons/io'
+import {FaMoneyCheck} from 'react-icons/fa'
 
 function Experience() {
   return (
@@ -155,42 +162,42 @@ function Experience() {
         <h3>Other Skills and Tools</h3>
         <div className="experience__content">
           <article className='experience__details'>
-              <IoIosAppstore className='experience__details-icon'/>
+              <FaGithub className='experience__details-icon'/>
               <div>
               <h4>Git and Github</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
-              <DiAtom className='experience__details-icon'/>
+              <SiFigma className='experience__details-icon'/>
               <div>
               <h4>Figma</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
-              <AiTwotoneVideoCamera className='experience__details-icon'/>
+              <SiCanva className='experience__details-icon'/>
               <div>
               <h4>Canva</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
-              <SiPython className='experience__details-icon'/>
+              <SiPandas className='experience__details-icon'/>
               <div>
               <h4>Python Pandas</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
-              <SiPostgresql className='experience__details-icon'/>
+              <GrCycle className='experience__details-icon'/>
               <div>
               <h4>Agile Methodology</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
-              <FaPhp className='experience__details-icon'/>
+              <DiGhostSmall className='experience__details-icon'/>
               <div>
               <h4>Waterfall Methodology</h4>
               <small className='text-light'>Experienced</small>
@@ -204,10 +211,10 @@ function Experience() {
         <h3>Extracurricular Skills</h3>
         <div className="experience__content">
           <article className='experience__details'>
-              <IoIosAppstore className='experience__details-icon'/>
+              <FaMoneyCheck className='experience__details-icon'/>
               <div>
               <h4 className='h4'>Fundamentals of Finance</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Basics</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -232,7 +239,7 @@ function Experience() {
               </div>
             </article>
             <article className='experience__details'>
-              <SiPostgresql className='experience__details-icon'/>
+              <IoIosFootball className='experience__details-icon'/>
               <div>
               <h4>Football Analysis</h4>
               <small className='text-light'>Experienced</small>
