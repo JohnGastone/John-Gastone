@@ -41,13 +41,13 @@ header{
 
 /* =============== ME ============== */
 
-.me{
+.MIMI{
     background: transparent;
     width: 25rem;
-    height: 30rem;
+    height: 17rem;
     position: absolute;
     left: calc(50% - 11rem);
-    margin-top: 6rem;
+    margin-top: 2rem;
     border-radius: 2rem 2rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
@@ -58,7 +58,7 @@ header{
 .scroll__down{
     position: absolute;
     right: -2.3rem;
-    bottom: 5rem;
+    bottom: 8rem;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;

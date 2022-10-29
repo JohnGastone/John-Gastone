@@ -20,8 +20,8 @@ function Portfolio() {
           </div>
           <h3>Duka Tembezi</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/JohnGastone/Duka_Tembezi.git" className='btn' target='_blank' rel='noreferer'>Github</a>
+          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
           </div>
         </article>
 
@@ -31,8 +31,8 @@ function Portfolio() {
           </div>
           <h3>Nyumbani Mkononi</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
+          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
           </div>
         </article>
 
@@ -42,8 +42,8 @@ function Portfolio() {
           </div>
           <h3>Gereji Mkononi</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
+          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
           </div>
         </article>
 
@@ -53,8 +53,8 @@ function Portfolio() {
           </div>
           <h3>Shangazi Cafe</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
+          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
           </div>
         </article>
 
@@ -64,8 +64,8 @@ function Portfolio() {
           </div>
           <h3>Mama Chanja</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
+          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
           </div>
         </article>
 
@@ -75,8 +75,8 @@ function Portfolio() {
           </div>
           <h3>Twenzetu Kwetu</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
+          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
           </div>
         </article>
 

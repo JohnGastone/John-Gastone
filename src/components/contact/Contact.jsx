@@ -30,14 +30,14 @@ function Contact() {
           <HiOutlineMail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>johngastone11@gmail.com</h5>
-            <a href="mailto:johngastone11@gmail.com" target='_blank'>Send a message</a>                        
+            <a href="mailto:johngastone11@gmail.com" target='_blank' rel='noreferer'>Send a message</a>                        
           </article>
        
           <article className="contact__option">
           <FaWhatsapp className='contact__option-icon'/>
             <h4>WhatsApp</h4>
             <h5>John Gastone</h5>
-            <a href="https://wa.me/+255786849280" target='_blank'>Text me on WhatsApp</a>                        
+            <a href="https://wa.me/+255786849280" target='_blank' rel='noreferer'>Text me on WhatsApp</a>                        
           </article>
         </div>
         {/* END OF CONTACT OPTIONS */}
