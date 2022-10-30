@@ -176,20 +176,6 @@ function Experience() {
               </div>
             </article>
             <article className='experience__details'>
-              <SiCanva className='experience__details-icon'/>
-              <div>
-              <h4>Canva</h4>
-              <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <SiPandas className='experience__details-icon'/>
-              <div>
-              <h4>Python Pandas</h4>
-              <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
               <GrCycle className='experience__details-icon'/>
               <div>
               <h4>Agile Methodology</h4>
@@ -213,43 +199,25 @@ function Experience() {
           <article className='experience__details'>
               <FaMoneyCheck className='experience__details-icon'/>
               <div>
-              <h4 className='h4'>Fundamentals of Finance</h4>
-              <small className='text-light'>Basics</small>
+              <h4 className='h4'>Finance</h4>              
               </div>
             </article>
             <article className='experience__details'>
               <DiAtom className='experience__details-icon'/>
               <div>
-              <h4>Storytelling</h4>
-              <small className='text-light'>Intermediate</small>
+              <h4>Storytelling</h4>              
               </div>
             </article>
             <article className='experience__details'>
               <AiTwotoneVideoCamera className='experience__details-icon'/>
               <div>
-              <h4>Canva</h4>
-              <small className='text-light'>Experienced</small>
+              <h4>Canva</h4>              
               </div>
             </article>
             <article className='experience__details'>
               <SiPython className='experience__details-icon'/>
               <div>
-              <h4>R</h4>
-              <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <IoIosFootball className='experience__details-icon'/>
-              <div>
-              <h4>Football Analysis</h4>
-              <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <FaPhp className='experience__details-icon'/>
-              <div>
-              <h4>Fb Analysis</h4>
-              <small className='text-light'>Experienced</small>
+              <h4>R</h4>              
               </div>
             </article>
             

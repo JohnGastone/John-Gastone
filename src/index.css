@@ -29,7 +29,7 @@
 }
 
 html{
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
 
 }
 
@@ -54,7 +54,7 @@ body{
 }
 
 h1, h2, h3, h4, h5 {
-    font-weight: 500;
+    font-weight: 600;
 }
 
 h1{
@@ -63,8 +63,8 @@ h1{
 
 section{
     margin-top: -3rem;
-    height: 140vh;
-    margin-bottom: 7rem;
+    height: 130vh;
+    margin-bottom: 5rem;
 
 }
 
@@ -88,7 +88,7 @@ a{
 }
 
 a:hover{
-    color: var(--color-white);
+    color: var(--color-primary);
 }
 
 .btn{

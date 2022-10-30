@@ -1,6 +1,6 @@
 import React from 'react'
 import './testimonials.css'
-import avt1 from '../../assets/avatar1.jpg'
+import me from '../../assets/John.jpg'
 import avt2 from '../../assets/avatar2.jpg'
 import avt3 from '../../assets/avatar3.jpg'
 
@@ -18,7 +18,7 @@ import 'swiper/css/navigation';
 
 const data = [
   {
-    avatar : avt1,
+    avatar : me,
     name : 'Omary Mkuse - TEDEX',
     review : 'Despite his technical expertise and hardworking spirit John is an interactive individual whose potential will bring much good in Tanzanian community and the world at large.'
   },
@@ -30,7 +30,7 @@ const data = [
   {
     avatar : avt3,
     name : 'Michael Justine - Konzo Metrics',
-    review : 'I would say John"s work is worth a mention, the vision and digital solutions he propose to businesses are superb. He is a pearl that needs to be looked at from a third angle.'
+    review : "I would say John's work is worth a mention, the vision and digital solutions he propose to businesses are superb. He is a pearl that needs to be used to push Tanzanian economy using digital arena."
   },
   {
     avatar : avt3,

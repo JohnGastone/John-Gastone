@@ -40,22 +40,17 @@ function Services() {
             <ul className='service__list'>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+                <p>I build both Android and iOS mobile applications . 
                 </p>
               </li>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+                <p>I use effective technologies that prioritise quality and quick delivery of Mobile Apps. 
                 </p>
               </li>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.                   
-                </p>
-              </li>
-              <li>
-                <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.                  
+                <p>I build Apps that focus on hiding technicalities to users and improve their experience on the App.                   
                 </p>
               </li>
             </ul>
@@ -70,24 +65,19 @@ function Services() {
             <ul className='service__list'>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+                <p>Building scallable web applications that leverage business workflows effectively. 
                 </p>
               </li>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+                <p>Building Web Apps using efficient software methodologies. 
                 </p>
               </li>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.                   
+                <p>I build Web Apps that bridges businesses with their customers.                   
                 </p>
-              </li>
-              <li>
-                <BiCheckDouble className='service__list-icon'/>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.                  
-                </p>
-              </li>
+              </li>            
             </ul>
           </div>
         </article>
