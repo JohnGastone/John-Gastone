@@ -21,7 +21,7 @@ function Footer() {
       <div className="footer__socials">
           <a href="https://instagram.com" target='_blank' rel='noreferer'><BsInstagram/></a>
           <a href="https://twitter.com" target='_blank' rel='noreferer'><SlSocialTwitter/></a>
-          <a href="https://telegram.com" target='_blank' rel='noreferer'><FaTelegramPlane/></a>
+          <a href="https://telegram.org/Daddy Community" target='_blank' rel='noreferer'><FaTelegramPlane/></a>
         </div>
 
         <div className="footer__copyright">

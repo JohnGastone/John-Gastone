@@ -22,12 +22,14 @@
 }
 */
 .container.testimonials__container{
-    width: 40%;
+    width: 60%;
+    height: 50%;
     padding-bottom: 4rem;
 }
 
 .client__avatar{
-    width: 4rem;
+    width: 8rem;
+    height: 8rem;
     aspect-ratio: 1/1;
     overflow: hidden;
     border-radius: 50%;

@@ -17,7 +17,6 @@ import {FaPhp} from 'react-icons/fa'
 import {TbBrandFirebase} from 'react-icons/tb'
 import {SiExpress} from 'react-icons/si'
 import {AiTwotoneVideoCamera} from 'react-icons/ai'
-import {DiAtom} from 'react-icons/di'
 import {SiFigma} from 'react-icons/si'
 import {FaGithub} from 'react-icons/fa'
 import {SiCanva} from 'react-icons/si'
@@ -26,6 +25,7 @@ import {GrCycle} from 'react-icons/gr'
 import {DiGhostSmall}from 'react-icons/di'
 import {IoIosFootball} from 'react-icons/io'
 import {FaMoneyCheck} from 'react-icons/fa'
+import {GrEmoji} from 'react-icons/gr'
 
 function Experience() {
   return (
@@ -203,7 +203,7 @@ function Experience() {
               </div>
             </article>
             <article className='experience__details'>
-              <DiAtom className='experience__details-icon'/>
+              <GrEmoji className='experience__details-icon'/>
               <div>
               <h4>Storytelling</h4>              
               </div>

@@ -42,7 +42,7 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/bg-texture.png);
+    background-image: url(../src/assets/pc.jpg);
 
 }
 
@@ -110,8 +110,13 @@ a:hover{
 }
 
 .btn-primary{
-    background: var(--color-primary);
-    color: var(--color-bg);
+    background: var(--color-primary-variant);
+    color: burlywood;
+}
+.btn.btn-primary:hover{
+    background: transparent;
+    border-color: var(--color-bg-variant);
+    color: var(--color-white);
 }
 
 img{
