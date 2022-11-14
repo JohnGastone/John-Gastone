@@ -13,9 +13,7 @@ function Header() {
             <h4 className="text-light">Junior Software Developer</h4>
             <CTA/>
             <HeaderSocials/>
-            <div className='MIMI'>
-            < img src={MIMI} alt='me'/>
-            </div>
+            <h4 className='text-light__quote'>“Softwares should never be scary to users; instead a place to run to in the quest of finding best business solutions. It is a neccesity for a software to be relevant to a business workflow - A must of course”</h4>
             <a href="#contact" className='scroll__down'>Scroll Down</a>
         </div>
     </header>

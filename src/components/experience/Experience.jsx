@@ -19,7 +19,7 @@ import {SiExpress} from 'react-icons/si'
 import {AiTwotoneVideoCamera} from 'react-icons/ai'
 import {SiFigma} from 'react-icons/si'
 import {FaGithub} from 'react-icons/fa'
-import {SiCanva} from 'react-icons/si'
+import {SiFlutter} from 'react-icons/si'
 import {SiPandas} from 'react-icons/si'
 import {GrCycle} from 'react-icons/gr'
 import {DiGhostSmall}from 'react-icons/di'
@@ -73,9 +73,16 @@ function Experience() {
               </div>
             </article>
             <article className='experience__details'>
-              <FaAngular className='experience__details-icon'/>
+              <TbBrandNuxt className='experience__details-icon'/>
               <div>
-              <h4>Angular</h4>
+              <h4>Dart</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <SiFlutter className='experience__details-icon'/>
+              <div>
+              <h4>Flutter</h4>
               <small className='text-light'>Beginer</small>
               </div>
             </article>
@@ -85,15 +92,7 @@ function Experience() {
               <h4>Vue</h4>
               <small className='text-light'>Experienced</small>
               </div>
-            </article>
-            <article className='experience__details'>
-              <TbBrandNuxt className='experience__details-icon'/>
-              <div>
-              <h4>Nuxt</h4>
-              <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            
+            </article>                        
           </div>
         </div>
         <div className="experience__backend">

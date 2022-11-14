@@ -20,7 +20,7 @@ function Services() {
               </li>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Clean and up to date designs that foster customer engagement in digital space. 
+                <p>Clean and smooth designs that foster customer engagement in digital space. 
                 </p>
               </li>
               <li>
@@ -70,7 +70,7 @@ function Services() {
               </li>
               <li>
                 <BiCheckDouble className='service__list-icon'/>
-                <p>Building Web Apps using efficient software methodologies. 
+                <p>Building Web Apps using efficient software methodologies that leverage your business workflows. 
                 </p>
               </li>
               <li>

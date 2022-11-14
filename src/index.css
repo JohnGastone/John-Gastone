@@ -82,6 +82,14 @@ section > h2{
     color: var(--color-light);
 }
 
+.text-light__quote{
+    color: var(--color-light);
+    padding-top: 3rem;
+    width: 80%;
+    align-content: center;
+    padding-left: 9rem;
+}
+
 a{
     color: var(--color-primary);
     transition: var(--transition);
@@ -104,8 +112,8 @@ a:hover{
 }
 
 .btn:hover{
-    background: var(--color-white);
-    color: var(--color-bg);
+    background: var(--color-bg);
+    color: rgb(187, 149, 99);
     border-color: transparent;
 }
 

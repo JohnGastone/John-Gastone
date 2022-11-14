@@ -2,6 +2,7 @@ import React from 'react'
 import './testimonials.css'
 import me from '../../assets/John.jpg'
 import avt2 from '../../assets/abambo.png'
+import avt from '../../assets/avatar3.jpg'
 import avt3 from '../../assets/Nsaa-Iya.jpg'
 
 // import Swiper core and required modules
@@ -28,7 +29,7 @@ const data = [
     review : 'The energy John is showing towards work is insane, he is someone that loves to see things work and bring the desired business outcome.'
   },
   {
-    avatar : avt3,
+    avatar : avt,
     name : 'Michael Justine - Konzo Metrics',
     review : "I would say John's work is worth a mention, the vision and digital solutions he propose to businesses are superb. He is a pearl that needs to be used to push Tanzanian economy using digital arena."
   },

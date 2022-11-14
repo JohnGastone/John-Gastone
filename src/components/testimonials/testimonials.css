@@ -39,7 +39,7 @@
 }
 
 .testimonial{
-    background: var(--color-bg-variant);
+    background: transparent;
     text-align: center;
     padding: 2rem;
     border-radius: 2rem;

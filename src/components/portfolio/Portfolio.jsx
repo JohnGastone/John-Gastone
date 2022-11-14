@@ -40,9 +40,9 @@ function Portfolio() {
           <div className="porfolio item__image">
             <img src={img3} alt="" />
           </div>
-          <h3>Gereji Mkononi</h3>
+          <h3>Point of Sale</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
+          <a href="https://github.com/JohnGastone/personal" className='btn' target='_blank' rel='noreferer'>Github</a>
           <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
           </div>
         </article>
