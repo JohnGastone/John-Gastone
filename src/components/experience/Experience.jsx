@@ -5,7 +5,6 @@ import {SiCsswizardry} from 'react-icons/si'
 import {SiJavascript} from 'react-icons/si'
 import {FaReact} from 'react-icons/fa'
 import {TbBrandBootstrap} from 'react-icons/tb'
-import {FaAngular} from 'react-icons/fa'
 import {RiVuejsFill} from 'react-icons/ri'
 import {TbBrandNuxt} from 'react-icons/tb'
 import {FaNodeJs} from 'react-icons/fa'
@@ -20,12 +19,12 @@ import {AiTwotoneVideoCamera} from 'react-icons/ai'
 import {SiFigma} from 'react-icons/si'
 import {FaGithub} from 'react-icons/fa'
 import {SiFlutter} from 'react-icons/si'
-import {SiPandas} from 'react-icons/si'
 import {GrCycle} from 'react-icons/gr'
 import {DiGhostSmall}from 'react-icons/di'
-import {IoIosFootball} from 'react-icons/io'
 import {FaMoneyCheck} from 'react-icons/fa'
 import {GrEmoji} from 'react-icons/gr'
+import {AiFillProject} from 'react-icons/ai'
+import {BsUpc} from 'react-icons/bs'
 
 function Experience() {
   return (
@@ -208,13 +207,13 @@ function Experience() {
               </div>
             </article>
             <article className='experience__details'>
-              <AiTwotoneVideoCamera className='experience__details-icon'/>
+              <AiFillProject className='experience__details-icon'/>
               <div>
               <h4>Canva</h4>              
               </div>
             </article>
             <article className='experience__details'>
-              <SiPython className='experience__details-icon'/>
+              <BsUpc className='experience__details-icon'/>
               <div>
               <h4>R</h4>              
               </div>

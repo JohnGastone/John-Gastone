@@ -2,6 +2,7 @@ import React from 'react'
 import './contact.css'
 import {HiOutlineMail} from 'react-icons/hi'
 import {FaWhatsapp} from 'react-icons/fa'
+import { RiHome2Line } from 'react-icons/ri'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com';
 
@@ -47,6 +48,9 @@ function Contact() {
           <textarea name='message' rows="7" placeholder='Your Message' required></textarea>
           <button type='submit' className='btn btn-primary'>Send message</button>
         </form>
+      </div>
+      <div>
+        <a href="#" className="footer__logo">Go Back Home    <RiHome2Line/></a>
       </div>
     </section>
   )

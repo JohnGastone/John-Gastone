@@ -2,7 +2,8 @@
     width: 58%;
     display: grid;
     grid-template-columns: 30% 58%;
-    gap: 12%
+    gap: 12%;
+    margin-bottom: -17;
 }
 
 .contact__options{
@@ -58,6 +59,14 @@ input, textarea{
     color: var(--color-white);
 }
 
+.footer__logo{
+    font-size: 1rem;
+    font-weight: 100;
+    margin-bottom: 2rem;
+    display: inline-block;
+    margin-left: 40rem;
+    margin-top: 5rem;
+}
 /* ============= MEDIA QUERIES (MEDIUM DEVICES) =============== */
 
 @media screen and (max-width: 1024px) {

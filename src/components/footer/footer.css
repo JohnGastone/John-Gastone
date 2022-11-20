@@ -1,9 +1,9 @@
 footer{
-    background: var(--color-bg);
+    background: transparent;
     padding: 3rem 0;
     text-align: center;
     font-size: 0.9rem;
-    margin-top: 2rem;
+    margin-top: 0.5rem;
     border-radius: 2rem 2rem 0 0;
 }
 
@@ -55,7 +55,7 @@ footer a{
 
 .footer__copyright{
     margin-bottom: 2rem;
-    color: var(--color-bg);
+    color: rgb(243, 226, 194);
 }
 
 /* ============= MEDIA QUERIES (MEDIUM DEVICES) =============== */
