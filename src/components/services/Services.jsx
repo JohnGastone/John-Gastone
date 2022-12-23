@@ -25,7 +25,7 @@ function Services() {
               </li>
               <li>
                 <BiWifi0 className='service__list-icon'/>
-                <p>Collaborative customer study when designing for interfaces following HCI principles.                   
+                <p>Collaborative customer study for better interfaces following HCI principles.                   
                 </p>
               </li>             
             </ul>
@@ -40,17 +40,17 @@ function Services() {
             <ul className='service__list'>
               <li>
                 <BiWifi0 className='service__list-icon'/>
-                <p>I build both Android and iOS mobile applications . 
+                <p>Both Android and iOS mobile applications . 
                 </p>
               </li>
               <li>
                 <BiWifi0 className='service__list-icon'/>
-                <p>I use effective technologies that prioritise quality and quick delivery of Mobile Apps. 
+                <p>Effective technologies that prioritise quality and quick delivery of Mobile Apps. 
                 </p>
               </li>
               <li>
                 <BiWifi0 className='service__list-icon'/>
-                <p>I build Apps that focus on hiding technicalities to users and improve their experience on the App.                   
+                <p>Apps that focus on simplicity to users and improve their experience on the App.                   
                 </p>
               </li>
             </ul>
@@ -70,12 +70,12 @@ function Services() {
               </li>
               <li>
                 <BiWifi0 className='service__list-icon'/>
-                <p>Building Web Apps using efficient software methodologies that leverage your business workflows. 
+                <p>Web Apps that use efficient software methodologies to leverage business workflows. 
                 </p>
               </li>
               <li>
                 <BiWifi0 className='service__list-icon'/>
-                <p>I build Web Apps that closes businesses-customers gap.                   
+                <p>Web Apps that closes businesses-customers gap.                   
                 </p>
               </li>            
             </ul>

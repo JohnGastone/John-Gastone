@@ -15,7 +15,6 @@ import {SiPostgresql} from 'react-icons/si'
 import {FaPhp} from 'react-icons/fa'
 import {TbBrandFirebase} from 'react-icons/tb'
 import {SiExpress} from 'react-icons/si'
-import {AiTwotoneVideoCamera} from 'react-icons/ai'
 import {SiFigma} from 'react-icons/si'
 import {FaGithub} from 'react-icons/fa'
 import {SiFlutter} from 'react-icons/si'
@@ -67,29 +66,29 @@ function Experience() {
             <article className='experience__details'>
               <TbBrandBootstrap className='experience__details-icon'/>
               <div>
-              <h4>Bootsrap</h4>
-              <small className='text-light'>Experienced</small>
+              <h4>Bootstrap</h4>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <TbBrandNuxt className='experience__details-icon'/>
               <div>
               <h4>Dart</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <SiFlutter className='experience__details-icon'/>
               <div>
               <h4>Flutter</h4>
-              <small className='text-light'>Beginer</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <RiVuejsFill className='experience__details-icon'/>
               <div>
               <h4>Vue</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Beginer</small>
               </div>
             </article>                        
           </div>
@@ -101,7 +100,7 @@ function Experience() {
               <FaNodeJs className='experience__details-icon'/>
               <div>
               <h4>Nodejs</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -143,7 +142,7 @@ function Experience() {
               <TbBrandFirebase className='experience__details-icon'/>
               <div>
               <h4>Firebase</h4>
-              <small className='text-light'>Experienced</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -187,6 +186,22 @@ function Experience() {
               <small className='text-light'>Experienced</small>
               </div>
             </article>
+
+            <article className='experience__details'>
+              <DiGhostSmall className='experience__details-icon'/>
+              <div>
+              <h4>Scipy</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <DiGhostSmall className='experience__details-icon'/>
+              <div>
+              <h4>Pandas</h4>
+              <small className='text-light'>Experienced</small>
+              </div>
+            </article>
             
           </div>
         </div>
@@ -209,7 +224,7 @@ function Experience() {
             <article className='experience__details'>
               <AiFillProject className='experience__details-icon'/>
               <div>
-              <h4>Canva</h4>              
+              <h4>Project Management</h4>              
               </div>
             </article>
             <article className='experience__details'>
@@ -219,6 +234,12 @@ function Experience() {
               </div>
             </article>
             
+            <article className='experience__details'>
+              <BsUpc className='experience__details-icon'/>
+              <div>
+              <h4>Marketing</h4>              
+              </div>
+            </article>
           </div>
         </div>
       </div>

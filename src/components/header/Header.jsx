@@ -1,7 +1,6 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
-import MIMI from '../../assets/pic.jpg'
 import HeaderSocials from './HeaderSocials'
 
 function Header() {
