@@ -50,7 +50,7 @@ function Services() {
               </li>
               <li>
                 <BiWifi0 className='service__list-icon'/>
-                <p>Apps that focus on simplicity to users and improve their experience on the App.                   
+                <p>Apps that focus on simplicity to users and improve their experience on the Apps.                   
                 </p>
               </li>
             </ul>
