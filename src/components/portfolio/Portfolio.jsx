@@ -1,9 +1,9 @@
 import React from 'react'
 import './portfolio.css'
-import img1 from '../../assets/portfolio1.jpg'
-import img2 from '../../assets/portfolio2.jpg'
-import img3 from '../../assets/portfolio3.jpg'
-import img4 from '../../assets/portfolio4.jpg'
+import img1 from '../../assets/duka_tembezi__2_-removebg-preview.png'
+import img2 from '../../assets/mkononi.png'
+import img3 from '../../assets/leta.png'
+import img4 from '../../assets/duka.png'
 import img5 from '../../assets/portfolio5.png'
 import img6 from '../../assets/portfolio6.jpg'
 
@@ -20,8 +20,8 @@ function Portfolio() {
           </div>
           <h3>Duka Tembezi</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone/Duka_Tembezi.git" className='btn' target='_blank' rel='noreferer'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
+            <a href="https://github.com/JohnGastone/Animated-App.git" className='btn' target='_blank' rel="noreferer noreferrer">Github</a>
+            <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel="noreferer noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -31,8 +31,8 @@ function Portfolio() {
           </div>
           <h3>Nyumbani Mkononi</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
+            <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel="noreferer noreferrer">Github</a>
+            <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel="noreferer noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -42,8 +42,8 @@ function Portfolio() {
           </div>
           <h3>Point of Sale</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone/personal" className='btn' target='_blank' rel='noreferer'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
+            <a href="https://github.com/JohnGastone/personal" className='btn' target='_blank' rel="noreferer noreferrer">Github</a>
+            <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel="noreferer noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -53,8 +53,8 @@ function Portfolio() {
           </div>
           <h3>Shangazi Cafe</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
+            <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel="noreferer noreferrer">Github</a>
+            <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel="noreferer noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -64,8 +64,8 @@ function Portfolio() {
           </div>
           <h3>Mama Chanja</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
+            <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel="noreferer noreferrer">Github</a>
+            <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel="noreferer noreferrer">Live Demo</a>
           </div>
         </article>
 
@@ -75,8 +75,8 @@ function Portfolio() {
           </div>
           <h3>Twenzetu Kwetu</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel='noreferer'>Github</a>
-          <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel='noreferer'>Live Demo</a>
+            <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel="noreferer noreferrer">Github</a>
+            <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel="noreferer noreferrer">Live Demo</a>
           </div>
         </article>
 
