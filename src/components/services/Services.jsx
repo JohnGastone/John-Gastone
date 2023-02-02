@@ -70,7 +70,7 @@ function Services() {
               </li>
               <li>
                 <BiWifi0 className='service__list-icon' />
-                <p>Web Apps that use efficient software methodologies to leverage business workflows.
+                <p>Web Apps that are built using efficient software methodologies.
                 </p>
               </li>
               <li>

@@ -3,7 +3,7 @@ import './portfolio.css'
 import img1 from '../../assets/duka_tembezi__2_-removebg-preview.png'
 import img2 from '../../assets/mkononi.png'
 import img3 from '../../assets/leta.png'
-import img4 from '../../assets/duka.png'
+import img4 from '../../assets/portfolio4.jpg'
 import img5 from '../../assets/portfolio5.png'
 import img6 from '../../assets/portfolio6.jpg'
 
