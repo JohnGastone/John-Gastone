@@ -23,7 +23,6 @@ import { DiGhostSmall } from 'react-icons/di'
 import { FaMoneyCheck } from 'react-icons/fa'
 import { GrEmoji } from 'react-icons/gr'
 import { AiFillProject } from 'react-icons/ai'
-import { BsUpc } from 'react-icons/bs'
 import { TbWriting } from 'react-icons/tb'
 
 function Experience() {
