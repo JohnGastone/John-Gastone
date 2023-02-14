@@ -24,6 +24,7 @@ import { FaMoneyCheck } from 'react-icons/fa'
 import { GrEmoji } from 'react-icons/gr'
 import { AiFillProject } from 'react-icons/ai'
 import { TbWriting } from 'react-icons/tb'
+import { SiCanva } from 'react-icons/si'
 
 function Experience() {
   return (
@@ -107,7 +108,7 @@ function Experience() {
               <SiMongodb className='experience__details-icon' />
               <div>
                 <h4>MongoDB</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -180,9 +181,9 @@ function Experience() {
               </div>
             </article>
             <article className='experience__details'>
-              <DiGhostSmall className='experience__details-icon' />
+              <SiCanva className='experience__details-icon' />
               <div>
-                <h4>Waterfall Methodology</h4>
+                <h4>Canva</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -212,7 +213,7 @@ function Experience() {
             <article className='experience__details'>
               <FaMoneyCheck className='experience__details-icon' />
               <div>
-                <h4 className='h4'>Finance</h4>
+                <h4 className='h4'>Finance Basics</h4>
               </div>
             </article>
             <article className='experience__details'>
