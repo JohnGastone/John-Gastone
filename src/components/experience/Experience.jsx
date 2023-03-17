@@ -217,15 +217,15 @@ function Experience() {
               </div>
             </article>
             <article className='experience__details'>
-              <GrEmoji className='experience__details-icon' />
-              <div>
-                <h4>Storytelling</h4>
-              </div>
-            </article>
-            <article className='experience__details'>
               <AiFillProject className='experience__details-icon' />
               <div>
                 <h4>Project Management</h4>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <GrEmoji className='experience__details-icon' />
+              <div>
+                <h4>Storytelling</h4>
               </div>
             </article>
             <article className='experience__details'>
