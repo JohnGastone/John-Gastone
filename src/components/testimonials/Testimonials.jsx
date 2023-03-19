@@ -1,6 +1,6 @@
 import React from 'react'
 import './testimonials.css'
-import me from '../../assets/John.jpg'
+import av4 from '../../assets/avatar4.jpg'
 import avt2 from '../../assets/abambo.png'
 import avt from '../../assets/avatar3.jpg'
 import avt3 from '../../assets/Nsaa-Iya.jpg'
@@ -19,9 +19,9 @@ import 'swiper/css/navigation';
 
 const data = [
   {
-    avatar: me,
+    avatar: av4,
     name: 'Happiness Tibaijuka - TANESCO',
-    review: 'Despite his technical expertise and hardworking spirit John is an interactive individual whose potential will bring much good in Tanzanian community and the world at large.'
+    review: 'Despite his technical expertise and hardworking spirit John is an interactive individual whose potential will bring much good in Tanzanian community.'
   },
   {
     avatar: avt2,

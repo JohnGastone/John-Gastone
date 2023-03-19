@@ -54,7 +54,7 @@ function Experience() {
               <SiJavascript className='experience__details-icon' />
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -192,7 +192,7 @@ function Experience() {
               <DiGhostSmall className='experience__details-icon' />
               <div>
                 <h4>Scipy</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Basics</small>
               </div>
             </article>
 
@@ -200,7 +200,7 @@ function Experience() {
               <DiGhostSmall className='experience__details-icon' />
               <div>
                 <h4>Pandas</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Basics</small>
               </div>
             </article>
 
