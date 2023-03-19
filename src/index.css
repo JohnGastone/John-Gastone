@@ -2,7 +2,7 @@
 
 
 
-*{
+* {
     margin: 0;
     padding: 0;
     border: 0;
@@ -12,13 +12,13 @@
     text-decoration: none;
 }
 
-:root{
+:root {
     --color-bg: #6f6fda;
     --color-bg-variant: #2c2c6c;
     --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77,181,255,0.4);
+    --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #fff;
-    --color-light: rgba(255,255,255,0.6);
+    --color-light: rgba(255, 255, 255, 0.6);
 
     --container-width-lg: 75%;
     --container-width-md: 86%;
@@ -28,64 +28,68 @@
 
 }
 
-html{
-    scroll-behavior:smooth;
+html {
+    scroll-behavior: smooth;
 
 }
 
-::-webkit-scrollbar{
+::-webkit-scrollbar {
     display: none;
 }
 
-body{
+body {
     font-family: 'Poppins', sans-serif;
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
     background-image: url(../src/assets/img.jpg
-    
-    );
+);
     background-size: cover;
 
 }
 
 /*============== GENERAL STYLES ============== */
 
-.container{
+.container {
     width: var(--container-width-lg);
     margin: 0 auto;
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
     font-weight: 600;
 }
 
-h1{
+h1 {
     font-size: 2.5rem;
 }
 
-section{
-    margin-top: -7rem;
-    height: 130vh;
+section {
+    margin-top: -6rem;
+    height: 145vh;
     margin-bottom: 9rem;
 
 }
 
-section > h2, section > h5{
+section>h2,
+section>h5 {
     text-align: center;
     color: var(--color-light);
 }
 
-section > h2{
+section>h2 {
     color: var(--color-primary);
     margin-bottom: 3rem;
 }
 
-.text-light{
+.text-light {
     color: var(--color-light);
 }
 
-.text-light__quote{
+.text-light__quote {
     margin-top: 3rem;
     color: var(--color-light);
     padding-top: 3rem;
@@ -94,16 +98,16 @@ section > h2{
     padding-left: 9rem;
 }
 
-a{
+a {
     color: var(--color-primary);
     transition: var(--transition);
 }
 
-a:hover{
+a:hover {
     color: var(--color-primary);
 }
 
-.btn{
+.btn {
     width: max-content;
     display: inline-block;
     color: var(--color-primary);
@@ -115,23 +119,24 @@ a:hover{
 
 }
 
-.btn:hover{
+.btn:hover {
     background: var(--color-bg);
     color: rgb(187, 149, 99);
     border-color: transparent;
 }
 
-.btn-primary{
+.btn-primary {
     background: var(--color-primary-variant);
     color: burlywood;
 }
-.btn.btn-primary:hover{
+
+.btn.btn-primary:hover {
     background: transparent;
     border-color: var(--color-bg-variant);
     color: var(--color-white);
 }
 
-img{
+img {
     display: block;
     width: 100%;
     object-fit: cover;
@@ -141,26 +146,26 @@ img{
 /* ============= MEDIA QUERIES (MEDIUM DEVICES) =============== */
 
 @media screen and (max-width: 1024px) {
-    .container{
+    .container {
         width: var(--container-width-md);
     }
 
-    section{
+    section {
         margin-top: 6rem;
     }
-    
+
 }
 
 
 /* ============= MEDIA QUERIES (SMALL DEVICES) =============== */
 
 @media screen and (max-width: 600px) {
-    .container{
+    .container {
         width: var(--container-width-sm);
     }
 
-    section > h2{
+    section>h2 {
         margin-bottom: 2rem;
     }
-    
+
 }
