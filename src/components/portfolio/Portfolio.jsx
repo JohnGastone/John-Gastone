@@ -18,7 +18,7 @@ function Portfolio() {
           <div className="porfolio item__image">
             <img src={img1} alt="" />
           </div>
-          <h3>Duka Tembezi</h3>
+          <h3>SKilika</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/JohnGastone/Animated-App.git" className='btn' target='_blank' rel="noreferer noreferrer">Github</a>
             <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel="noreferer noreferrer">Live Demo</a>
