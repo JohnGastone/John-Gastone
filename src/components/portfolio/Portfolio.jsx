@@ -79,6 +79,20 @@ function Portfolio() {
             <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel="noreferer noreferrer">Live Demo</a>
           </div>
         </article>
+        <a href="https://www.testdome.com/certificates/3c63d9dfd9544d029914b3515f87ffb7" class="testdome-certificate-stamp silver">
+          <span class="testdome-certificate-name">John Gastone Mahwaya</span>
+          <span class="testdome-certificate-test-name">Attention to Detail</span>
+          <span class="testdome-certificate-card-logo">TestDome Certificate</span>
+        </a>
+        <script>
+          var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
+          link = document.createElement("link");
+          link.href = stylesheet,
+          link.type = "text/css",
+          link.rel = "stylesheet",
+          link.media = "screen,print",
+          document.getElementsByTagName("head")[0].appendChild(link);
+        </script>
 
       </div>
     </section>
