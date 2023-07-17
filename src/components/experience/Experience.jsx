@@ -25,6 +25,7 @@ import { GrEmoji } from 'react-icons/gr'
 import { AiFillProject } from 'react-icons/ai'
 import { TbWriting } from 'react-icons/tb'
 import { SiCanva } from 'react-icons/si'
+import { GrAssistListening } from 'react-icons/gr'
 
 function Experience() {
   return (
@@ -235,12 +236,12 @@ function Experience() {
               </div>
             </article>
 
-            {/* <article className='experience__details'>
-              <BsUpc className='experience__details-icon' />
+            <article className='experience__details'>
+              <GrAssistListening className='experience__details-icon' />
               <div>
-                <h4>Marketing</h4>
+                <h4>Attention to detail</h4>
               </div>
-            </article> */}
+            </article>
           </div>
         </div>
       </div>
