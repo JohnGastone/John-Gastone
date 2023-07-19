@@ -80,9 +80,9 @@ function Portfolio() {
           </div>
         </article>
         <a href="https://www.testdome.com/certificates/3c63d9dfd9544d029914b3515f87ffb7" class="testdome-certificate-stamp silver">
-          <span class="testdome-certificate-name">John Gastone Mahwaya</span>
+          {/* <span class="testdome-certificate-name">John Gastone Mahwaya</span> */}
           <span class="testdome-certificate-test-name">Attention to Detail</span>
-          <span class="testdome-certificate-card-logo">TestDome Certificate</span>
+          {/* <span class="testdome-certificate-card-logo">TestDome Certificate</span> */}
         </a>
         <script>
           var stylesheet = "https://www.testdome.com/content/source/stylesheets/embed.css",
