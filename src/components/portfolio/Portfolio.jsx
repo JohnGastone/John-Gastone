@@ -73,9 +73,9 @@ function Portfolio() {
           <div className="porfolio item__image">
             <img src={img6} alt="" />
           </div>
-          <h3>Twenzetu Kwetu</h3>
+          <h3>Ujazo</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/JohnGastone" className='btn' target='_blank' rel="noreferer noreferrer">Github</a>
+            <a href="https://github.com/JohnGastone/Ujazo.git" className='btn' target='_blank' rel="noreferer noreferrer">Github</a>
             <a href="https://github.com/JohnGastone" className='btn btn-primary' target='_blank' rel="noreferer noreferrer">Live Demo</a>
           </div>
         </article>
